@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Hierro y Ceniza",
+  "short_name": "Hierro y Ceniza",
+  "description": "Juego de lucha medieval de 16 bits con Arcade y Versus local.",
+  "lang": "es-AR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#100e1e",
+  "theme_color": "#100e1e",
+  "icons": [
+    {"src": "icono-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icono-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
